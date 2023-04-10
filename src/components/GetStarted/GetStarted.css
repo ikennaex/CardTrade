@@ -1,0 +1,58 @@
+.get-started {
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 50px;
+    padding-left: 50px;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.getstarted-text {
+    font-size: 100px;
+    font-weight: 900;
+    letter-spacing: -5px;
+    line-height: 90px;
+    object-fit: contain;
+}
+
+.text-blue {
+    color: #0096B4;
+}
+
+.text-green {
+    color: #018652;
+}
+
+.getstarted-signup {
+    /* max-width: 200px; */
+    width: 400px;
+    background-color: #e4fff8;
+    border-radius: 20px;
+    padding: 10px 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 30px; */
+}
+
+.getstarted-signup h2 {
+    font-size: 30px;
+    color: #0096C0;
+    margin-bottom: 0px;
+}
+
+.getstarted-signup button {
+    all: unset;
+    background-color: #018652;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 50%;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+

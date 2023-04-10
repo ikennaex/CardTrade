@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 25px;
+    align-items: center;
+    background-color: white;
+}
+
+.navbar button {
+    all: unset;
+    background-color: #018652;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    padding: 20px 40px;
+}
+
+.navbar h2 {
+    cursor: pointer;
+}
